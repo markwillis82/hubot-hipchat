@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "node-expat": "1.6.1",
-    "wobot": "0.8.0"
+    "wobot": "https://github.com/markwillis82/wobot/tarball/master"
   },
   "license": "MIT",
   "main": "./src/hipchat"
